@@ -1,0 +1,5 @@
+D:\C2C\C2CApps\C2CApps.Core\bin\Debug\C2CApps.Core.dll
+D:\C2C\C2CApps\C2CApps.Core\bin\Debug\C2CApps.Core.pdb
+D:\C2C\C2CApps\C2CApps.Core\obj\Debug\C2CApps.Core.csproj.CoreCompileInputs.cache
+D:\C2C\C2CApps\C2CApps.Core\obj\Debug\C2CApps.Core.dll
+D:\C2C\C2CApps\C2CApps.Core\obj\Debug\C2CApps.Core.pdb

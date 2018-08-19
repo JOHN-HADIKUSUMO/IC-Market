@@ -1,0 +1,16 @@
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\C2CApps.Testing.dll
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\C2CApps.Testing.pdb
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\C2CApps.Core.dll
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\C2CApps.Core.pdb
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C2C\C2CApps\C2CApps.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C2C\C2CApps\C2CApps.Testing\obj\Debug\C2CApps.Testing.csproj.CoreCompileInputs.cache
+D:\C2C\C2CApps\C2CApps.Testing\obj\Debug\C2CApps.Testing.csproj.CopyComplete
+D:\C2C\C2CApps\C2CApps.Testing\obj\Debug\C2CApps.Testing.dll
+D:\C2C\C2CApps\C2CApps.Testing\obj\Debug\C2CApps.Testing.pdb
+D:\C2C\C2CApps\C2CApps.Testing\obj\Debug\C2CApps.Testing.csprojResolveAssemblyReference.cache
